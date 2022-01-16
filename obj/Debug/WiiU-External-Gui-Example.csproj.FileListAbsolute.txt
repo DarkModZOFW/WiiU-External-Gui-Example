@@ -1,0 +1,10 @@
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\bin\Debug\WiiU-External-Gui-Example.exe.config
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\bin\Debug\WiiU-External-Gui-Example.exe
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\bin\Debug\WiiU-External-Gui-Example.pdb
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\obj\Debug\WiiU-External-Gui-Example.csprojAssemblyReference.cache
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\obj\Debug\WiiU_External_Gui_Example.Form1.resources
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\obj\Debug\WiiU_External_Gui_Example.Properties.Resources.resources
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\obj\Debug\WiiU-External-Gui-Example.csproj.GenerateResource.cache
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\obj\Debug\WiiU-External-Gui-Example.csproj.CoreCompileInputs.cache
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\obj\Debug\WiiU-External-Gui-Example.exe
+C:\Users\Audigier\source\repos\WiiU-External-Gui-Example\obj\Debug\WiiU-External-Gui-Example.pdb
